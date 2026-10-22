@@ -1,5 +1,33 @@
-# 💫 About Me:
-I am Reeth Pradeep - Data Analyst & Machine Learning Enthusiast passionate about turning raw data into meaningful insights!<br><br>🔹 Tech Stack: Python | SQL | Power BI | Tableau | Scikit-learn | Pandas<br>🔹 Expertise: Data Analytics | Machine Learning | Data Visualization<br>🔹 Projects: AI-powered fruit disease detection, crime data visualization, and recruitment analytics dashboards<br><br>Currently pursuing my MSc in Data Analytics in Berlin, I’m available for remote opportunities across Europe.<br>I enjoy working on data-driven projects and always eager to collaborate & learn new technologies.
+# About Me:
+Hi, I'm Reeth! 👋
+
+I'm a Data Analytics professional interested in automation, artificial intelligence, and solving real-world business problems through technology.
+
+💻 # Technical Skills
+
+Programming & Data: Python, SQL, JavaScript, Pandas
+
+Automation & Integration: Google Apps Script, APIs, Excel VBA
+
+AI & Prompt Engineering: Gemini, ChatGPT, AI-assisted development
+
+Data Visualisation: Tableau, Power BI, Plotly
+
+Business & Operations: Supply Chain Analytics, Process Improvement, Reporting Automation
+
+🚀 # What I enjoy
+
+Building automation solutions that reduce repetitive manual work
+
+Connecting applications and APIs to streamline workflows
+
+Developing dashboards that turn data into actionable insights
+
+Exploring AI tools and new technologies
+
+Learning, experimenting, and building practical projects
+
+I'm always looking for opportunities to learn, collaborate, and create solutions that make everyday work smarter and more efficient.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/reeth-pradeep-25a3631b6/) 
