@@ -3,7 +3,7 @@ Hi, I'm Reeth! 👋
 
 I'm a Data Analytics professional interested in automation, artificial intelligence, and solving real-world business problems through technology.
 
-💻 # Technical Skills
+💻 **Technical Skills**
 
 Programming & Data: Python, SQL, JavaScript, Pandas
 
@@ -15,7 +15,7 @@ Data Visualisation: Tableau, Power BI, Plotly
 
 Business & Operations: Supply Chain Analytics, Process Improvement, Reporting Automation
 
-🚀 # What I enjoy
+🚀  **What I enjoy**
 
 Building automation solutions that reduce repetitive manual work
 
